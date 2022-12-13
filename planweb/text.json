@@ -1,0 +1,51 @@
+{
+    "color":[
+        "chuyển màu nền",
+        "đổi màu nền",
+        "đổi màu",
+        "màu nền",
+        "sang nền đen",
+        "sang nền trắng",
+        "chuyển nền khác"
+    ],
+    "product":[
+        "xem sản phẩm",
+        "sản phẩm",
+        "cho tôi xem sản phẩm",
+        "tôi muốn xem sản phẩm",
+        "sản phẩm của cửa hàng bao gồm những gì",
+        "sản phẩm của cửa hàng",
+        "những sản phẩm cửa hàng cung cấp"
+    ],
+    "about":[
+        "xem giới thiệu",
+        "giới thiệu",
+        "giới thiệu dịch vụ",
+        "giới thiệu cửa hàng"
+    ],
+    "infor":[
+        "số điện thoại",
+        "số điện thoại cửa hàng",
+        "số điện thoại liên lạc",
+        "cách thức liên lạc",
+        "email",
+        "thông tin liên lạc",
+        "địa chỉ thư điện tử",
+        "liên hệ",
+        "thông tin liên hệ"
+    ],
+    "buy":[
+        "đặt hàng",
+        "hoàn tất",
+        "hoàn thành",
+        "order"
+    ],
+    "inforcustomer":[{
+        "phone": "số điện thoại là",
+        "number":"số lượng là",
+        "address":"địa chỉ là",
+        "note": "ghi chú là"
+    }
+        
+    ]
+}
